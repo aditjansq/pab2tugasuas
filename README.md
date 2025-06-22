@@ -4,4 +4,4 @@ A new Flutter project.
 
 Run menggunakan Emulator atau Device Android 
 
-![Tampilan Aplikasi](https://drive.google.com/file/d/1UphSsAATYvxwAMM9cwUg8Kp6uKBBCr36/view?usp=drive_link)
+![Tampilan Aplikasi](https://pouch.jumpshare.com/preview/uKvSmfbDMwOc2BtQo3VCFpB2CgLfVd-rfH4Pn3gKAQDEbIybrmjkVYfNMQ-xQCwGQvpcLLSNWVG6sn6jJ4ApDJrzG1XSwu1TRjsWKxEcSvE)
